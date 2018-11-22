@@ -1,0 +1,176 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+
+nav {
+
+	margin: 20px;
+}
+
+ul {
+
+float: right;
+}
+
+li {
+display: inline-block;
+margin: 0 50px;
+}
+
+a {
+	text-decoration: none;
+
+}
+nav img {
+
+margin: 10px 246px;
+    width: 1000px;
+    height: 200px;
+}
+#main {
+ margin: 41px 34px;
+    display: flex;
+    flex-wrap: wrap;
+
+
+}
+
+#main div {
+  	margin: 100px 60px;
+    width: 350px;
+    height: 250px;
+    
+
+}
+.title {
+	font-size: 30px;
+	color: red;
+
+
+}
+.medo {
+	margin: 500px 500px;
+	background-color: red;
+	font-size: 50px;
+}
+.navbar {
+	overflow: hidden;
+	background-color: rgb(0,0,0,.8);
+	font-family: Arial, Helvetica;
+}
+.navbar a {
+	float: left;
+	font-size: 16px;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.dropdown {
+	float: left;
+	overflow: hidden;
+
+}
+.dropdown .dropbtn {
+	font-size: 16px;
+	border: none;
+	outline: none;
+	color: white;
+	padding: 14px 16px;
+	background-color: inherit;
+	font-family: inherit;
+
+}
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+
+}
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #f9f9f9;
+	min-width: 160px;
+
+	z-index: 1;
+}
+.dropdown-content a {
+	float: none;
+	color: black;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	text-align: left;
+}
+.dropdown-content a:hover {
+	background-color: #ddd;
+}
+.dropdown:hover .dropdown-content {
+	display:block;
+}
+
+
+.dropdown1 {
+	float: left;
+	overflow: hidden;
+
+}
+.dropdown1 .dropbtn1 {
+	font-size: 16px;
+	border: none;
+	outline: none;
+	color: white;
+	padding: 14px 16px;
+	background-color: inherit;
+	font-family: inherit;
+
+}navbar
+.navbar1 a:hover, .dropdown1:hover .dropbtn1 {
+    background-color: red;
+    
+}
+.dropdown1-content1 {
+	display: none;
+	position: absolute;
+	background-color: #f9f9f9;
+	min-width: 160px;
+
+	z-index: 1;
+}
+.dropdown1-content1 a {
+	float: none;
+	color: black;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	text-align: left;
+}
+.dropdown1-content1 a:hover {
+	background-color: #ddd;
+}
+.dropdown1:hover .dropdown1-content1 {
+	display:block;
+}
+.spec {
+	margin: 0 50px 0 200px;
+}
+.speclink{
+	margin: 0 0 0 285px;
+
+}
+.speclink1 {
+	margin: 0 0 0 230px;
+
+}
+
+
+.spec1 {
+	margin-left: 200px;
+}
+.spec2 {
+	margin-left: 250px;
+	;
+}
+
